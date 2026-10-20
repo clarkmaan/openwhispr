@@ -1,0 +1,77 @@
+{
+  "sourceCommit": "7627f6f64e7f0d731290d5a9d71e12fb88d11bdb",
+  "captures": [
+    {
+      "group": "preview",
+      "before": "media/full-before-over-limit.png",
+      "after": "media/full-02-over-limit.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "base": "2b4706f283811cca48ece6e90a3ab255c6677023",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "small",
+      "before": "media/full-before-under-limit.png",
+      "after": "media/full-01-under-limit.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "base": "2b4706f283811cca48ece6e90a3ab255c6677023",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "dark",
+      "before": "media/full-before-dark.png",
+      "after": "media/full-11-folder-overview.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "base": "2b4706f283811cca48ece6e90a3ab255c6677023",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "popover",
+      "after": "media/full-03-view-all-popover.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "search",
+      "after": "media/full-04-search-results.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "empty",
+      "after": "media/full-05-no-results.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "pinned",
+      "after": "media/full-06-active-note-pinned.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "dark-popover",
+      "after": "media/full-09-view-all-popover-dark.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "overview",
+      "after": "media/full-11-folder-overview.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "large",
+      "after": "media/full-12-beyond-50.png",
+      "kind": "Full app with synthetic local SQLite notes",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    },
+    {
+      "group": "narrow",
+      "after": "media/10-narrow.png",
+      "kind": "Electron component fixture",
+      "sourceSha256": "27b018b30943e906abd72d260b2474089dd382d67d8facc784d3113f3dcd2a67"
+    }
+  ]
+}
